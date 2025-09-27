@@ -1,4 +1,5 @@
 🎯 Overview
+
 This repository serves as the central documentation for a suite of technology platforms developed in and focused on the Indian market, particularly Ahmedabad. Each project is designed to solve critical local challenges using modern technology, AI, and hyper-local context.
 
 The three primary applications in this portfolio are:
